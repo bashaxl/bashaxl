@@ -3,7 +3,7 @@
 ![Imagen Principal del Perfil](banner.jpg)
     ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-Programador en proceso de aprendizaje. En este perfil guardo todas mis ideas y proyectos. ¡Toda experiencia es bien recibida con tal de seguir progresando!
+---
 
 ### 💻 || Technologies:
 [![My Skills](https://skillicons.dev/icons?i=mysql,git,bash,py,java,php,js,html,css)](https://skillicons.dev)
