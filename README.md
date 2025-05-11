@@ -8,11 +8,11 @@
 ---
 
 ### 💻 || Technologies:
-[![My Skills](https://skillicons.dev/icons?i=mysql,git,bash,py,java,php,js,html,css)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=mysql,git,bash,py,java,php,js,html,css)
 
 ---
 
 ### 📝 || Tools:
-[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=eclipse,vscode)
 
 ---
