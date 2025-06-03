@@ -8,11 +8,11 @@
 ---
 
 ### 💻 || Technologies:
-[![My Skills](https://skillicons.dev/icons?i=mysql,git,bash,py,java,php,js,html,css)](https://github.com/bashaxl)
+[![My Skills](https://skillicons.dev/icons?i=mysql,bash,py,java,php,js,html,css)](https://github.com/bashaxl)
 
 ---
 
 ### 📝 || Tools:
-[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,github)](https://github.com/bashaxl)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,git,github)](https://github.com/bashaxl)
 
 ---
