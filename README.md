@@ -20,6 +20,6 @@
 ---
 
 ### 📝 || Tools:
-[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,git,gitlab,github)](https://github.com/bashaxl)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,idea,git,gitlab,github)](https://github.com/bashaxl)
 
 ---
